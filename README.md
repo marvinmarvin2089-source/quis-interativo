@@ -93,7 +93,7 @@ quiz-interativo
 
 1️⃣ Clone o repositório
 
-git clone https://github.com/seuusuario/quiz-interativo.git
+git clone https://github.com/marvinmarvin2089-source/quis-interativo
 
 
 2️⃣ Abra a pasta do projeto
