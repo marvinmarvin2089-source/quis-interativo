@@ -122,8 +122,8 @@ Desenvolvido por **Marcus Vinícius**
 
 💼 Em busca de oportunidade como **Desenvolvedor Front-End Júnior**
 
-🔗 GitHub  
-https://github.com/seuusuario
+🔗 Link do Projeto  
+ https://marvinmarvin2089-source.github.io/quis-interativo/
 
 ---
 
